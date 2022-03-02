@@ -57,7 +57,6 @@ Updated Salary of Mehak:  70000
 Viren's record deleted.
 
 Q6
-Q6
 Enter a word: aryan
 Enter another word: arora
 The possible words are:  ['aryan', 'rayan', 'ryaan', 'ryaan', 'ryana']
